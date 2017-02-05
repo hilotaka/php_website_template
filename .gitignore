@@ -1,0 +1,4 @@
+*.log
+/node_modules
+/assets/src/img
+/assets/dist/img

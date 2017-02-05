@@ -1,0 +1,30 @@
+{
+  "name": "php_website_template",
+  "version": "1.0.0",
+  "description": "This is a template for a website project using  PHP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilotaka/php_website_template.git"
+  },
+  "author": "Hilo Iwanami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hilotaka/php_website_template/issues"
+  },
+  "homepage": "https://github.com/hilotaka/php_website_template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
